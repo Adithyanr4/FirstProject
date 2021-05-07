@@ -27,7 +27,7 @@ namespace AutoProject
                 case "chrome":
                     driver = new ChromeDriver();
                     break;
-                case " firefox":
+                case "firefox":
                     driver = new FirefoxDriver();
                     break;
                 default:
